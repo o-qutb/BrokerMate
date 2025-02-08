@@ -1,0 +1,2 @@
+Floor	Location	Type	Finishing	Bedrooms	Phase	BUA
+3	North Wing	Apartment	Standard	2	1	85
